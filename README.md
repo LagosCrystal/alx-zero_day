@@ -1,2 +1,1 @@
-This is a readme file
-This is an update in the README file of the master branch 
+I am now a software engineer in alx
